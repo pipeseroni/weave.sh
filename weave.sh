@@ -1,5 +1,6 @@
 #!/bin/bash
 # Weaving with simple math in terminal
+# https://bitbucket.org/livibetter/weave.sh
 # Copyright (c) 2013 Yu-Jie Lin
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy of
