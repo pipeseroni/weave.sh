@@ -22,6 +22,8 @@
 # SOFTWARE.
 
 
+VERSION=0.1.0
+
 # Characters and colors for vertical and horizontal lines
 : ${char_v:='|'}            ${char_h:='-'}
 : ${color_v:='\e[32;1m'}    ${color_h:='\e[31;1m'}
