@@ -48,11 +48,15 @@ char_v='┃' char_h='━' weave.sh
 Screenshots and video
 ---------------------
 
+Here is a [video of `sample-screensaver.sh`](http://youtu.be/voFiTMweXHs).
+
 [![weave.sh '(( $(echo "v=s(($x-1)*2*4*a(1)/$W);scale=0;$H-$H*(v+1)/2 == $y" | bc -l) ))'](http://farm3.staticflickr.com/2811/8778875471_49a29dcbe4_z.jpg)](http://www.flickr.com/photos/livibetter/8778875471/)
+
+`weave.sh '(( $(echo "v=s(($x-1)*2*4*a(1)/$W);scale=0;$H-$H*(v+1)/2 == $y" | bc -l) ))'`
 
 [![weave.sh '(((x % 5 + y % 11) % 2))](http://farm4.staticflickr.com/3810/8785449798_9dd3395990_z.jpg)](http://www.flickr.com/photos/livibetter/8785449798/)
 
-Here is a [aideo of `sample-screensaver.sh`](http://youtu.be/voFiTMweXHs).
+`weave.sh '(((x % 5 + y % 11) % 2))`
 
 Contribution
 ------------
