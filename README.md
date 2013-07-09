@@ -63,6 +63,15 @@ Contribution
 
 Feel free to create pull request. Whether make the code better or add some awesome examples to `sample-screensaver.sh`, they are all welcome.
 
+Related screensavers
+--------------------
+
+* [**rain.sh**][rain]: Let rain drop in your terminal
+* [**pipes.sh**][pipes]: Pipes going anywhere
+
+[rain]: https://gist.github.com/livibetter/5933594
+[pipes]: https://gist.github.com/livibetter/4689307
+
 License
 -------
 
